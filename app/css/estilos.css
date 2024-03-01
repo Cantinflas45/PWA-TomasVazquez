@@ -1,10 +1,10 @@
 body {
-    background-color: #FCF6DB;
+    background-color: #ffffff;
     font-family: 'Playfair Display', serif;
 }
 
 .bg1 {
-    background-color: #b9e3f3;
+    background-color: #ffffff;
 }
 
 .bg2 {
@@ -63,7 +63,7 @@ body {
     
 }
 .texto1 h1{
-    color:#EFEA50;
+    color:#fe0000;
     font-size: 100px;
     margin-left: 20%;
 }
