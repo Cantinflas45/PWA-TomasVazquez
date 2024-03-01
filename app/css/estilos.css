@@ -276,18 +276,18 @@ span:target + section {
     }
 
     .texto1 h1{
-        font-size: 70px;
+        font-size: 40px;
         text-align: center;
         margin: 0;
     }
     
     .texto1 h2{
-        font-size: 40px;
+        font-size: 20px;
         text-align: center;
     }
     
     .texto1 p{
-        font-size: 120px;
+        font-size: 50px;
         text-align: center;
         margin: 0;
     }
