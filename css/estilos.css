@@ -277,7 +277,7 @@ strong
 
     .texto1 h1
     {
-        font-size: 80px;
+        font-size: 70px;
         text-align: center;
         margin: 0;
     }
@@ -367,28 +367,28 @@ body
 }
 .texto1 h1
 {
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
     margin: 0;
 }
 
 .texto1 h2
 {
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
     padding: 0;
 }
 
 .texto1 p
 {
-    font-size: 120px;
+    font-size: 50px;
     text-align: center;
     margin: 0;
 }
 
 .texto2 h1
 {
-    font-size: 40px;
+    font-size: 20px;
     text-align: center;
     margin-left: 10px;
 }
